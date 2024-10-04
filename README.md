@@ -1,1 +1,2 @@
 # sortingvisualiser
+javascript,html,css
